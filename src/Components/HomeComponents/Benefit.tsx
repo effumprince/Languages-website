@@ -191,9 +191,7 @@ import {
   HiOutlineGlobeAlt,
   HiOutlinePencilAlt,
   HiOutlineHeart,
-  HiOutlineCode,
-  HiOutlineChartBar,
-  HiOutlinePhotograph,
+
 } from "react-icons/hi";
 
 type CourseCard = {
